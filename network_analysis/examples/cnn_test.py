@@ -45,7 +45,7 @@ def loadTestData(opts, params):
     X_test_raw, y_test = readCSVFile(opts.test)
 
     NUM_CLASS = len(set(y_test))
-    X_test = X_test_raw.reshape(X_test.shape[0], X_test.shape[1], 1)
+    X_test = X_test_raw.reshape(X_test_raw.shape[0], X_test_raw.shape[1], 1)
     y_test = np_utils.to_categorical(y_test, NUM_CLASS)
 
     return X_test, y_test, NUM_CLASS
