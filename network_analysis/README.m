@@ -36,6 +36,10 @@ have troubel to understand the help msg:
    python examples/cnn_test.py -t1 train_data_file -t2 test_data_file -o output_file -v
 
 
+Below is an running example to show how it looks like when the code is running:
+
+
+
 ** Note
 1. Feel free to modify the code:)
 2. When you run the code, you can use the data in the data folder,
