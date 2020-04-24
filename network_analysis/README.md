@@ -11,7 +11,7 @@
 #########################################################
 
 
-** Data
+**Data
 The data is stored in the data folder. For now, the data is stored
 in zip file format, because git have a limit of 100MB, so if you
 want to use the data, you need to unzip those file first.
@@ -22,7 +22,7 @@ these format, each row is a data sample, and the last column of each sample
 is its correspondence label.
 
 
-** Code
+**Code
 And there is examples in the example folder
 
 if you want to run the example code, you can first type:
@@ -37,9 +37,9 @@ have troubel to understand the help msg:
 
 
 Below is an running example to show how it looks like when the code is running:
-![image](https://github.com/Aegon007/adv_topic_data_security/blob/master/network_analysis/screen_shot.jpg)
+<img src="https://github.com/Aegon007/adv_topic_data_security/blob/master/network_analysis/screen_shot.png" width="700" alt="note"/>
 
-** Note
+**Note
 1. Feel free to modify the code:)
 2. When you run the code, you can use the data in the data folder,
 you may also use the data of yourself, however, you will need to
