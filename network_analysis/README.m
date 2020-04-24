@@ -37,8 +37,7 @@ have troubel to understand the help msg:
 
 
 Below is an running example to show how it looks like when the code is running:
-![Image](https://raw.githubusercontent.com/Aegon007/adv_topic_data_security/master/network_analysis/screen_shot.png)
-![Image](https://raw.githubusercontent.com/Gladysid/Images-blog/master/IE-box-pic.png)
+<img src="https://github.com/Aegon007/adv_topic_data_security/blob/master/network_analysis/screen_shot.png" width="700" alt="note"/>
 
 ** Note
 1. Feel free to modify the code:)
